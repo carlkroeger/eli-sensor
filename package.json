@@ -1,0 +1,29 @@
+{
+  "name": "eli-sensor",
+  "version": "1.0.0",
+  "description": "Ionic Native wrapper for cordova eli-sensor plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlkroeger/eli-sensor.git"
+  },
+  "keywords": [
+    "motion",
+    "sensor",
+    "android",
+    "game",
+    "rotation",
+    "vector",
+    "accelerometer",
+    "gyroscope"
+  ],
+  "author": "Carl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlkroeger/eli-sensor/issues"
+  },
+  "homepage": "https://github.com/carlkroeger/eli-sensor#readme"
+}
