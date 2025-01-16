@@ -1,6 +1,6 @@
 import { __decorate, __extends } from "tslib";
 import { Injectable } from '@angular/core';
-import { IonicNativePlugin, cordova } from '@ionic-native/core';
+import { IonicNativePlugin, cordova } from '@awesome-cordova-plugins/core';
 import { Observable } from 'rxjs';
 var EliSensor = /** @class */ (function (_super) {
     __extends(EliSensor, _super);

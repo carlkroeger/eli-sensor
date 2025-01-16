@@ -11,7 +11,7 @@ var __extends = (this && this.__extends) || (function () {
         d.prototype = b === null ? Object.create(b) : (__.prototype = b.prototype, new __());
     };
 })();
-import { IonicNativePlugin, cordova } from '@ionic-native/core';
+import { IonicNativePlugin, cordova } from '@awesome-cordova-plugins/core';
 import { Observable } from 'rxjs';
 var EliSensorOriginal = /** @class */ (function (_super) {
     __extends(EliSensorOriginal, _super);
