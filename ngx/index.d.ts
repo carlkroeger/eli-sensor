@@ -1,4 +1,4 @@
-import { IonicNativePlugin } from '@awesome-cordova-plugins/core';
+import { AwesomeCordovaNativePlugin } from '@awesome-cordova-plugins/core';
 import { Observable } from 'rxjs';
 export interface EliSensorType {
     string_type: string;
@@ -40,7 +40,7 @@ export interface EliSensorOptions {
  *
  * ```
  */
-export declare class EliSensor extends IonicNativePlugin {
+export declare class EliSensor extends AwesomeCordovaNativePlugin {
     getSensorList(): Promise<EliSensorType[]>;
     getCurrent(): Promise<EliSensorData>;
     watch(options?: EliSensorOptions): Observable<EliSensorData>;
