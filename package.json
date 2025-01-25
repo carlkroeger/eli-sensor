@@ -1,6 +1,6 @@
 {
   "name": "eli-sensor",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Ionic Native wrapper for cordova eli-sensor plugin",
   "main": "index.js",
   "scripts": {
